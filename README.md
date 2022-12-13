@@ -23,7 +23,6 @@ Hardware en software bronnen.
  Na volledige instal (account maken en plaatsen op sd card en in de raspberry pi steken)
  HA (Home assistant) kan je benader via http://homeassistant.local:8123
  
-### Eigen scripts en programma's
- Sla je als apparte bestanden op in deze repository.
+Zie word doc voor het vervolg
 
  
